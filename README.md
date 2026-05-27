@@ -1,15 +1,5 @@
-Absolutely, Robert — here’s a **clean, professional, production‑ready README** for your Medusa + Next.js e‑commerce storefront.  
-It’s written the way real SaaS teams document their apps: clear, structured, and deployment‑ready.
+# 🛍️ Theory 418 Solutions — Storefront
 
-You can drop this directly into:
-
-```
-apps/storefront/README.md
-```
-
----
-
-# 🛍️ Theory 418 Solutions — Storefront  
 A modern, high‑performance e‑commerce storefront built with **Next.js**, powered by a **Medusa** backend.  
 This frontend communicates with the Medusa server via REST APIs and provides a fast, responsive shopping experience.
 
@@ -17,14 +7,14 @@ This frontend communicates with the Medusa server via REST APIs and provides a f
 
 ## 🚀 Features
 
-- ⚡ **Next.js 15** with Turbopack for ultra‑fast dev experience  
-- 🛒 **Medusa Commerce** integration (products, carts, checkout, regions)  
-- 🎨 Fully customizable UI  
-- 🌍 Region & currency handling via middleware  
-- 🔐 Secure API communication with backend  
-- 📦 Dynamic product pages  
-- 🧩 Modular architecture for easy extension  
-- 📱 Responsive design for mobile & desktop  
+- ⚡ **Next.js 15** with Turbopack for ultra‑fast dev experience
+- 🛒 **Medusa Commerce** integration (products, carts, checkout, regions)
+- 🎨 Fully customizable UI
+- 🌍 Region & currency handling via middleware
+- 🔐 Secure API communication with backend
+- 📦 Dynamic product pages
+- 🧩 Modular architecture for easy extension
+- 📱 Responsive design for mobile & desktop
 
 ---
 
@@ -48,8 +38,8 @@ storefront/
 
 Before running the storefront, ensure you have:
 
-- Node.js 18+  
-- A running **Medusa backend** (local or remote)  
+- Node.js 18+
+- A running **Medusa backend** (local or remote)
 - A valid `NEXT_PUBLIC_MEDUSA_BACKEND_URL` in your `.env.local`
 
 ---
@@ -136,12 +126,12 @@ NEXT_PUBLIC_MEDUSA_BACKEND_URL=https://your-production-backend.com
 
 You can customize:
 
-- Product listing pages  
-- Product detail pages  
-- Cart & checkout flow  
-- UI components  
-- Middleware logic  
-- API helpers  
+- Product listing pages
+- Product detail pages
+- Cart & checkout flow
+- UI components
+- Middleware logic
+- API helpers
 
 The storefront is intentionally modular to support rapid iteration.
 
